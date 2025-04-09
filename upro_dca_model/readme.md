@@ -1,0 +1,1 @@
+A leveraged ETF trading strategy which makes use of a DCA mechanism to maximise returns

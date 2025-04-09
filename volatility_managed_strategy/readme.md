@@ -1,0 +1,1 @@
+A leveraged volatility managed strategy based upon https://www.jstor.org/stable/26652549
