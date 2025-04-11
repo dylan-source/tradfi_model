@@ -1,1 +1,3 @@
-A series of tradfi investment stratgies/models
+A series of tradfi investment stratgies/models.
+
+Very much work-in-progress
